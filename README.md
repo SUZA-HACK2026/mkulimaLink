@@ -86,7 +86,7 @@ JWT_SECRET="dev-only-change-me-mkulima-secret"
 
 # AI Providers
 GEMINI_API_KEY="your_gemini_key"
-GEMINI_MODEL="gemini-2.5-flash"
+GEMINI_MODEL="gemini-3.8-flash"
 
 # SMS Configuration (Briq)
 BRIQ_API_KEY="your_briq_key"
